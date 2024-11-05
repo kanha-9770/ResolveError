@@ -1,0 +1,30 @@
+
+
+.youtubeWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.youtubeIframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.ytp-large-play-button {
+  left: 60%;
+  top: 60%;
+  width: 20px;
+  height: 56px;
+}
+
+.ytp-large-play-button:hover {
+  opacity: 1;
+}
+
+.vediocontent{
+  width: 30%;
+}

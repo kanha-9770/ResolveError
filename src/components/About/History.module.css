@@ -1,0 +1,46 @@
+.year-animation {
+  display: flex;
+  font-size: 9rem; /* Adjust as needed */
+  position: relative; /* Relative positioning for internal alignment */
+  align-items: center;
+}
+
+/* Prefix - stays fixed */
+.year-animation__prefix {
+ 
+  position: fixed; /* Fixed position to keep it in place */
+  left: 1rem; /* Adjust this value based on your layout */
+  top: 15%; /* Adjust this value based on your layout */
+  white-space: nowrap; /* Ensure it's above other elements */
+  
+}
+
+/* Suffix - scrolls up and down */
+.year-animation__suffix {
+  display: inline-block;
+  position: relative; /* Scrolls with the content */
+  white-space: nowrap;
+  top:-3rem;
+  transition: transform 0.2s ease-out; /* Smooth transition */
+  margin-left: 8rem; /* Adjust to align with prefix */
+}
+
+.year-animation__separator {
+  height: 30rem; /* Adjust the height as needed */
+  position: fixed;
+  width: 2px; /* Adjust the width as needed */
+  background-color: white; /* Separator color */
+  margin-left: 7rem; /* Space around the separator */
+  bottom: 0.3rem;
+  
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}

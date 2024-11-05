@@ -1,0 +1,97 @@
+.image-slide-0 {
+    /* Styles for the first image */
+    width: 29rem;
+    height: auto;
+    margin-right: -0.80rem;
+    transform: rotate(-6deg);
+  
+  }
+  
+  .image-slide-1 {
+    /* Styles for the second image */
+    width: 27rem;
+    height: auto;
+    margin-right: -10px;
+    
+  }
+  
+  .image-slide-2 {
+    /* Styles for the third image */
+    width: 26rem;
+    height: auto;
+    margin-right: 1rem;
+   margin-top: 1rem;
+  
+  }
+
+  /* ourstrenght */
+
+  @media (max-width: 768px) {
+    .line-style-0 {
+      left: 45%;
+    }
+  
+    .line-style-1 {
+      left: 30%;
+    }
+  
+    .line-style-2 {
+      left: 35%;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1200px) {
+    .line-style-0 {
+      left: 50%;
+    }
+  
+    .line-style-1 {
+      left: 35%;
+    }
+  
+    .line-style-2 {
+      left: 40%;
+    }
+  }
+  
+  
+  /* Add more styles for other lines as needed */
+  
+  /* pergarpghcss */
+
+  
+/* ParagraphStyles.module.css */
+.customParagraphStyle0 {
+  margin-left: -1rem;
+  width: 17rem;
+}
+
+.customParagraphStyle1 {
+  margin-left: 1rem;
+  width: 16rem;
+}
+
+.customParagraphStyle2 {
+ margin-left: 1rem;
+ width: 16rem; 
+}
+.customParagraphStyle3 {
+  margin-left: 1rem;
+  width: 17rem;
+ }
+
+
+
+ .iconContainer {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  transform: scale(1.6);
+  opacity: 0.3; /* Set initial opacity to very low */
+  transition: opacity 0.3s; 
+}
+
+.iconContainer:hover {
+ opacity: 1;
+}
+

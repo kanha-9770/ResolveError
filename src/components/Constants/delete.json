@@ -1,0 +1,621 @@
+[
+    {
+      "homeSeoData": {
+        "title": "Paper Cup Machine Manufacturer and Supplier - Nessco India",
+        "description": "Trusted Paper Cup Machine Manufacturer since 1978. Nessco offers a wide range of paper cup making machine pairing with the latest technology. Enquire now!",
+        "keywords": "Nessco India",
+        "openGraph": {
+          "title": "Paper Cup Machine Manufacturer and Supplier - Nessco India",
+          "description": "Trusted Paper Cup Machine Manufacturer since 1978. Nessco offers a wide range of paper cup making machine pairing with the latest technology. Enquire now!",
+          "images": [
+            {
+              "url": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+              "alt": "Fully Automatic Paper Cup Making Machine"
+            }
+          ]
+        },
+        "robots": "index, follow",
+        "authors": [
+          {
+            "name": "Nessco India"
+          }
+        ],
+        "publisher": "Nessco India",
+        "alternates": {
+          "canonical": "https://www.nesscoindia.com"
+        }
+      },
+      "homeMachineSection": {
+        "title": "Our products",
+        "subheading": "We are known for manufacturing and globally exporting various paper packaging machines including Cups, Glass, Straws and Plate Machines."
+      },
+      "navItems": [
+        {
+          "text": "Machines",
+          "ref": "homeMachineRef"
+        },
+        {
+          "text": "About Us",
+          "ref": "aboutUsRef"
+        },
+        {
+          "text": "Clientele",
+          "ref": "infiniteCardsRef"
+        },
+        {
+          "text": "KnowMore",
+          "ref": "knowMoreRef"
+        },
+        {
+          "text": "IoT",
+          "ref": "iotRef"
+        },
+        {
+          "text": "News",
+          "ref": "newsFeatureRef"
+        },
+        {
+          "text": "Testimonials",
+          "ref": "homeTestimonialRef"
+        }
+      ]
+    },
+    {
+      "category":"HeroSection",
+      "data": {
+        "video": {
+          "sources": [
+            {
+              "src": "https://assets.nesscoindustries.com/public/video/BgHome.mp4",
+              "type": "video/mp4"
+            },
+            {
+              "src": "https://assets.nesscoindustries.com/public/video/bg.webm",
+              "type": "video/webm"
+            },
+            {
+              "src": "https://assets.nesscoindustries.com/public/video/bg.ogv",
+              "type": "video/ogg"
+            }
+          ],
+          "images": [
+            "https://assets.nesscoindustries.com/public/video/home.webp",
+            "https://assets.nesscoindustries.com/public/video/home.webp",
+            "https://assets.nesscoindustries.com/public/home.webp",
+            "https://assets.nesscoindustries.com/public/video/home.webp"
+          ],
+          "poster": "https://assets.nesscoindustries.com/public/video/home.webp"
+        },
+        "textOverlay": {
+          "headline": "Quality Food Packaging",
+          "subheadline": {
+            "text": "Machinery & Solutions",
+            "highlight": "Solutions"
+          }
+        }
+      }
+    },
+    {
+      "category":"ProductSection",
+      "data": {
+        "products":[
+          {
+            "category": "cup",
+            "firstname": "Servo Driven",
+            "secondname": "Paper Cup Machine",
+            "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperPlate.png",
+            "title": "Servo Driven Machine",
+            "speed": 100,
+            "unit": "PCS/MIN",
+            "icon": "https://assets.nesscoindustries.com/public/assets/nav_machine_icon/papercup.png",
+            "items": [
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "High-Speed Synchronized Servos"
+              },
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "Advanced Sealing Technology"
+              },
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "Two-Step Curling Process"
+              },
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "Comprehensive Control System"
+              }
+            ]
+          },
+          {
+            "category": "bowl",
+            "firstname": "Automatic",
+            "secondname": "Paper Bowl Machine",
+            "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBagMachine%20.png",
+            "title": "Automatic Paper Bowl Machine",
+            "speed": 80,
+            "unit": "PCS/MIN",
+            "icon": "https://assets.nesscoindustries.com/public/assets/nav_machine_icon/papercup.png",
+            "items": [
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "High Production Capacity"
+              },
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "Servo Control System"
+              },
+              {
+                "className": "text-gray-400 text-3xl",
+                "text": "Ultrasonic Sealing Technology"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "category": "homeaboutsection",
+      "data": {
+        "heading": "Leading the Way in Food Packaging Machine Manufacturing",
+        "description": "At Nessco India, we specialize in manufacturing advanced food packaging machines that set industry standards for quality and innovation. Our state-of-the-art technology ensures efficient and sustainable solutions, meeting the diverse needs of our global clientele. With over 40 years of expertise, we are dedicated to pioneering eco-friendly practices in packaging. Trust us to lead the way in transforming packaging solutions for a greener future.",
+        "stats": {
+          "machinesSold": 30000,
+          "readyStockMachines": 3000
+        },
+        "cards": [
+          {
+            "title": "Vision & Mission",
+            "image": "https://assets.nesscoindustries.com/public/assets/HomeAbout1.png",
+            "link": "vission"
+          },
+          {
+            "title": "Our Strength",
+            "image": "https://assets.nesscoindustries.com/public/assets/HomeAbout2.jpg",
+            "link": "our-strength"
+          },
+          {
+            "title": "People & Culture",
+            "image": "https://assets.nesscoindustries.com/public/assets/HomeAbout3.png",
+            "link": "culture"
+          }
+        ]
+      }
+    },
+    {
+      "category": "homefeaturedata",
+      "data": {
+        "title": "Featured Products",
+        "description": "Upgrade Your Business with Our Top Picks",
+        "inquiry": "Added to inquiry",
+        "viewMachine": " View Machine",
+        "imageWithDescription": [
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          },
+          {
+            "h1": "Die Cutting Machine",
+            "h2": "NS-950",
+            "h3": "950mm Roll Width Die Cutting Machine",
+            "s": "S",
+            "sInformation": "Servo Driven",
+            "img": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+            "imageInformation": "Paper Plate",
+            "information": "More information about this item."
+          }
+        ]
+      }
+    },
+    {
+      "projects": [
+        {
+          "title": "Industry Expertise",
+          "description": "With over 40 years of industry expertise, Nessco India has a rich history of innovation and reliability. Our extensive experience allows us to deliver high-quality, cutting-edge packaging solutions tailored to our clients' needs. Trust our proven track record and deep industry knowledge to provide exceptional products and services.",
+          "src": "/assets/HomeKnowmore4.jpg",
+          "link": "https://www.ignant.com/2023/03/25/ad2186-matthias-leidingers-photographic-exploration-of-awe-and-wonder/",
+          "color": "#24194c",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/industry_experty.json"
+        },
+        {
+          "title": "Indigenous Design Engineering",
+          "description": "At Nessco India, our indigenous design engineering team leverages local expertise to create innovative packaging machines. This in-house approach ensures tailored solutions, superior quality, and reliable performance. By developing designs internally, we maintain full control over the manufacturing process, guaranteeing sustainability and excellence in every product.",
+          "src": "/assets/HomeKnowmore2.jpg",
+          "link": "https://www.ignant.com/2022/09/30/clement-chapillon-questions-geographical-and-mental-isolation-with-les-rochers-fauves/",
+          "color": "#4e3e8a",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        },
+        {
+          "title": "Quality Control & Assurance",
+          "description": "Quality Control & Assurance is a cornerstone of our manufacturing process. Our rigorous quality control measures ensure that every product meets the highest standards of performance and durability. We are committed to delivering excellence, consistently verifying that our machines exceed industry expectations for reliability and efficiency.",
+          "src": "/assets/HomeKnowmore3.jpg",
+          "link": "https://www.ignant.com/2023/10/28/capturing-balis-many-faces-zissou-documents-the-sacred-and-the-mundane-of-a-fragile-island/",
+          "color": "#8c52ff",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        },
+        {
+          "title": "Advanced Engineering Technologies",
+          "description": "We use the highest grade tooling, cylindrical grinders, VMC, and CNC machines to build the art of engineering. These advanced technologies ensure precision and excellence in our manufacturing process, allowing us to deliver top-tier packaging machines with unmatched performance and reliability. Trust our state-of-the-art equipment to produce engineering marvels tailored to your needs.",
+          "src": "/assets/HomeKnowmore4.jpg",
+          "link": "https://www.ignant.com/2019/03/13/a-photographic-series-depicting-the-uncertain-future-of-denmarks-treasured-coastlines/",
+          "color": "#a58fe8",
+          "expertiseExperience": "25+ Years of ",
+          "expertiseAbout": "Quality",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        },
+        {
+          "title": "Comprehensive Support Services",
+          "description": "We ensure a seamless experience with our comprehensive support services. Our expert team handles the installation of your machinery, ensuring optimal performance from day one. We provide robust warranty coverage to address any issues promptly and ensure the longevity of your equipment. Our extensive spares support guarantees the availability of high-quality parts, to ensure your operations runs smoothly.",
+          "src": "/assets/HomeKnowmore2.jpg",
+          "link": "https://www.ignant.com/2023/04/12/mark-rammers-all-over-again-is-a-study-of-regret-and-the-willingness-to-move-forward/",
+          "color": "#bca0dd",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        }
+      ]
+    },
+    {
+      "category": "trustedBrands",
+      "data": [
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/abc-news.png",
+          "alt": "Abc-News"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/airfrance.png",
+          "alt": "Airfrance"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/allianz.png",
+          "alt": "Allianz"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/bbc.png",
+          "alt": "BBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/cnbc.png",
+          "alt": "CNBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/gannett.png",
+          "alt": "Gannett"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/jaguar.png",
+          "alt": "Jaguar"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/linkedin.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/telegraph.png",
+          "alt": "Telegraph"
+        }
+      ],
+      "partnerBrands": [
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/abc-news.png",
+          "alt": "Abc-News"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/airfrance.png",
+          "alt": "Airfrance"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/allianz.png",
+          "alt": "Allianz"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/bbc.png",
+          "alt": "BBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/cnbc.png",
+          "alt": "CNBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/gannett.png",
+          "alt": "Gannett"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/jaguar.png",
+          "alt": "Jaguar"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/linkedin.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/telegraph.png",
+          "alt": "Telegraph"
+        }
+      ],
+      "texts": {
+        "trustedBy": "Trusted By",
+        "partnerBrands": "Partner Brands",
+        "message": "Empowering sustainable packaging with advanced paper-based solutions. Our innovative machines drive global CO2 reduction, paving the way for a greener earth and elevating your packaging capabilities."
+      }
+    },
+    {
+      "category": "announcements",
+      "data": {
+        "announcements": {
+          "title": "Announcements",
+          "subtitle": "Our Latest Events"
+        },
+        "cards": [
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/event-images/event1.png",
+            "title": "Event Title 1",
+            "category": "Category 1",
+            "date": "2024-09-27"
+          },
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/event-images/event2.png",
+            "title": "Event Title 2",
+            "category": "Category 2",
+            "date": "2024-10-02"
+          },
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/event-images/event3.png",
+            "title": "Event Title 3",
+            "category": "Category 3",
+            "date": "2024-11-15"
+          },
+          {
+            "src": "https://assets.nesscoindustries.com/public/assets/event-images/event4.png",
+            "title": "Event Title 4",
+            "category": "Category 4",
+            "date": "2024-12-01"
+          }
+        ]
+      }
+    },
+    {
+      "category": "testinomial",
+      "data": [
+        {
+          "src": "https://i.pinimg.com/236x/36/a2/e2/36a2e242bfe3ac039e0618fbaaef7596.jpg",
+          "username": "Alice Johnson",
+          "profile": "Software Developer",
+          "country": "USA",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/us.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/b9/e4/5d/b9e45d2667c272dfb56e22fc0e1fbc64.jpg",
+          "username": "Michael Brown",
+          "profile": "Graphic Designer",
+          "country": "Canada",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/ca.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/05/3f/86/053f86bf19f82e5488b518bcfed17c64.jpg",
+          "username": "Sophia Lee",
+          "profile": "Product Manager",
+          "country": "UK",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/gb.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/b4/0a/81/b40a81ccb4e3b2cac2748622d4929d03.jpg",
+          "username": "David Miller",
+          "profile": "Marketing Specialist",
+          "country": "Australia",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/at.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/81/ac/9e/81ac9ef6456e8eccbf651fc368e83e4a.jpg",
+          "username": "Emily Davis",
+          "profile": "UX Researcher",
+          "country": "Germany",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/de.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/4d/9c/34/4d9c34104c98b22ea66bf6b8f64ff5b6.jpg",
+          "username": "Oliver Martinez",
+          "profile": "Data Scientist",
+          "country": "Spain",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/es.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/236x/bc/61/97/bc61979451b11263cab4f49e21ffc131.jpg",
+          "username": "Charlotte Garcia",
+          "profile": "Business Analyst",
+          "country": "France",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/fr.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/564x/5a/2a/89/5a2a89a9c7962e026a8572b701586500.jpg",
+          "username": "William Robinson",
+          "profile": "SEO Specialist",
+          "country": "Italy",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/it.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/736x/ff/b3/1e/ffb31e98ffb84717ead291e69a3488ee.jpg",
+          "username": "Amelia Martinez",
+          "profile": "Web Developer",
+          "country": "Mexico",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/fr.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/564x/16/af/25/16af2524bc4a0704adcb18eb9bd92b24.jpg",
+          "username": "Liam Johnson",
+          "profile": "Content Writer",
+          "country": "Japan",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/me.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/564x/d0/cb/d1/d0cbd1380c72ddf3750c896433b2dea1.jpg",
+          "username": "Evelyn Moore",
+          "profile": "Project Manager",
+          "country": "Brazil",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/br.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/736x/b8/82/83/b882836fa749f501aefa935d19e19977.jpg",
+          "username": "Lucas Taylor",
+          "profile": "Social Media Manager",
+          "country": "South Africa",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/za.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/564x/c1/4b/88/c14b8848983ccd7fc28850c3e2caf656.jpg",
+          "username": "Mia Clark",
+          "profile": "Quality Assurance",
+          "country": "India",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/in.svg"
+        },
+        {
+          "src": "https://i.pinimg.com/564x/90/42/44/90424430eaa5793ac1e893f074b456f2.jpg",
+          "username": "Henry Anderson",
+          "profile": "Digital Marketer",
+          "country": "New Zealand",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/fr.svg"
+        }
+      ]
+    }
+  ]
+  
